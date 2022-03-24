@@ -1,0 +1,24 @@
+{
+    "result": [
+        {
+            "id": 1,
+            "productName": "Brush",
+            "productImage": "/images/product-1.webp",
+            "productValue": 100,
+            "currency": "INR",
+            "availableQuantity": 10,
+            "maxOrderQuantity": 5,
+            "minOrderQuantity": 1
+        },
+        {
+            "id": 2,
+            "productName": "Paste",
+            "productImage": "/images/product-1.webp",
+            "productValue": 200,
+            "currency": "INR",
+            "availableQuantity": 5,
+            "maxOrderQuantity": 2,
+            "minOrderQuantity": 1
+        }
+    ]
+}
